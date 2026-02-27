@@ -123,6 +123,7 @@ Applications with support of IPTV streams.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+- [Better-IPTV](https://github.com/mewset/better-iptv) - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
 - [Jellyfin Desktop](https://flathub.org/en/apps/org.jellyfin.JellyfinDesktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### Android
@@ -282,7 +283,6 @@ Applications with support of IPTV streams.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
-- [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
 - [FreeIPTV](https://freeiptv2023-d.ottc.xyz/) - Free IPTV lists with 35,000+ channels from all around the world.
